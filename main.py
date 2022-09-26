@@ -1,11 +1,3 @@
-for i in range(5):
-    print(i)
-else:
-    print("Done!")
-
-
-
-
-
-
-
+Given=[7,6,5,4,2]
+Given.reverse()
+print(Given)
